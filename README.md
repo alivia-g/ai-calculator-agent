@@ -1,4 +1,4 @@
-# mini project: AI Calculator Agent
+## mini project: AI Calculator Agent
 
 Automated bug fixer for arithmetic expressions
 
