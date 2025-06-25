@@ -1,3 +1,5 @@
+# mini project: AI Calculator Agent
+
 Automated bug fixer for arithmetic expressions
 
 This project develops an AI agent to autonomously identify and resolve code bugs within a Python-based calculator application.
